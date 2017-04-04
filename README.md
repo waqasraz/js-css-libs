@@ -9,7 +9,7 @@
 - **Modal**
     - [Tingle](https://github.com/robinparisi/tingle)
     - [Uglipop](https://github.com/flouthoc/uglipop.js/)
--**Buttons**
+- **Buttons**
     - [Pushy Buttons](https://iraul.github.io/pushy-buttons/)
     - [Buttons 2.0](https://github.com/alexwolfe/Buttons)
 - **Grid**
